@@ -10,6 +10,6 @@ html {
 .content {
    background-color: rgba(0, 0, 0,.8);
    color: white;
-   padding: 200px;
+   padding: all;
 
 }
