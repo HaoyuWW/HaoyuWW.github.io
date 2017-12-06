@@ -4,12 +4,13 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  opacity:0.7;
 }
 
 
-.content {
+/* .content {
    background-color: rgba(0, 0, 0,.7);
    color: white;
-   padding: 100%;
+   padding: 0px;
 
-}
+} */
